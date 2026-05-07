@@ -19,8 +19,4 @@ This **Add-on** adds mod compatibility to [Fresh Flower Pots](https://modrinth.c
 [Nature's Spirit](https://modrinth.com/mod/natures-spirit)  
 [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)  
 [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone)  
-[Ecologics](https://modrinth.com/mod/ecologics)  
-
-#
-
-Also check out [Fresh Flower Pots: Rotated](https://modrinth.com/resourcepack/fresh-flower-pots-rotated)!
+[Ecologics](https://modrinth.com/mod/ecologics)
