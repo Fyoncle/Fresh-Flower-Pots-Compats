@@ -1,0 +1,25 @@
+name: Suggestion
+description: 'Request a mod to add compatibility with!'
+title: '[Suggestion]: '
+assignees:
+  - Fyoncle
+labels:
+  - suggestion
+body:
+  - type: input
+    id: mod_name
+    attributes:
+      label: Mod Name
+      description: What mod should be added for compatibility?
+      placeholder: Regions Unexplored
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Which flowers you want it to be added?
+      description: A clear list of flowers that you want it to be added, including information about which block they spawn on, and if they're from Nether or End.
+      placeholder: >-
+        This mod adds a lot of pretty flowers, flower A and B is from Nether, flower C spawns on sand. The rest is normal flowers.
+    validations:
+      required: true
