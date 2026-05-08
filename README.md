@@ -2,7 +2,7 @@
 
 ![Banner](https://cdn.modrinth.com/data/cached_images/e716824ef7498058ef85ded65bc7c36e7a81b66d_0.webp)
 
-This **Add-on** adds mod compatibility to [Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots) to make your world perfect!
+This **Add-on** adds mod compatibility to [Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots) to make your world consistent and pretty!
 
 # 📋 Compatibility List 📋
 
