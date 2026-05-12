@@ -1,10 +1,13 @@
 <div align="center">
 
 ![Banner](https://cdn.modrinth.com/data/cached_images/e716824ef7498058ef85ded65bc7c36e7a81b66d_0.webp)
+<a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/main/ed_badge.png" alt="As seen in Elysium Days">
+</a>
 
 This **Add-on** adds mod compatibility to [Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots) to make your world consistent and pretty!
 
-# 📋 Compatibility List 📋
+# Compatibility List
 
 [Regions Unexplored](https://modrinth.com/mod/regions-unexplored)  
 [Bushier Flowers](https://modrinth.com/mod/bushier-flowers)  
