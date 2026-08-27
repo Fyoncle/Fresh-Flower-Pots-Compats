@@ -23,7 +23,7 @@ This **Add-on** adds mod compatibility to [Fresh Flower Pots](https://modrinth.c
 [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)  
 [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone)  
 [Ecologics](https://modrinth.com/mod/ecologics)  
-[Enderscape](https://modrinth.com/mod/enderscape)
+[Enderscape](https://modrinth.com/mod/enderscape)  
 [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ---
