@@ -22,4 +22,13 @@ This **Add-on** adds mod compatibility to [Fresh Flower Pots](https://modrinth.c
 [Nature's Spirit](https://modrinth.com/mod/natures-spirit)  
 [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)  
 [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone)  
-[Ecologics](https://modrinth.com/mod/ecologics)
+[Ecologics](https://modrinth.com/mod/ecologics)  
+[Enderscape](https://modrinth.com/mod/enderscape)
+[Supplementaries](https://modrinth.com/mod/supplementaries)
+
+---
+
+<a href="https://github.com/Fyoncle/Fresh-Flower-Pots-Compats" rel="noopener nofollow ugc">
+<img src="https://wsrv.nl/?url=https://i.ibb.co/N9s5hz1/github.png" alt="GitHub"></a>
+  
+The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](https://github.com/Fyoncle/Fresh-Flower-Pots-Compats/issues)!**
