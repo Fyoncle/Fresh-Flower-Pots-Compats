@@ -34,3 +34,5 @@ This **Add-on** adds mod compatibility to [Fresh Flower Pots](https://modrinth.c
 The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](https://github.com/Fyoncle/Fresh-Flower-Pots-Compats/issues)!**
 
 [![Kinetic Hosting](https://github.com/Fyoncle/Elysium-Days/blob/main/kinetic_banner.png?raw=true)](https://billing.kinetichosting.com/aff.php?aff=1616)
+
+</div>
